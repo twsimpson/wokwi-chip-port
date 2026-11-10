@@ -1,0 +1,7 @@
+[wokwi]
+firmware = ""
+elf = ""
+
+[[chip]]
+name = "chip"
+binary = "build/src/chip.wasm"

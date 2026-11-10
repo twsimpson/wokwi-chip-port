@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Clang 21.1.8 wasm32-unknown-wasi",
+    "toolchainFile": "../toolchain.cmake",
+    "isTrusted": true
+  }
+]

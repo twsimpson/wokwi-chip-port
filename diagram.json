@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "author": "tst_cxpr",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "chip-chip",
+      "id": "chip",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    }
+  ],
+  "connections": [],
+  "dependencies": {}
+}

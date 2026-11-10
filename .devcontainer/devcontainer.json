@@ -1,0 +1,22 @@
+{
+  "name": "Wokwi-chips clang",
+	"build": {
+    "dockerfile": "Dockerfile"
+  },
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Wokwi.wokwi-vscode",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cpptools-themes"
+			],
+      "settings": {
+        "C_Cpp.defaultIncludePath": [
+          "${workspaceFolder}/**"
+        ]
+      }
+		}
+	}
+}
